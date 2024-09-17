@@ -4,4 +4,4 @@
 - Gustavo
 - Mohammed
 - Oziel
-- Chitanya
+- Chaitanya
