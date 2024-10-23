@@ -3,5 +3,5 @@
 # Members:
 - Gustavo Platas
 - Mohammed
-- Oziel Platas
+- Oziel Platas Jr
 - Chaitanya
