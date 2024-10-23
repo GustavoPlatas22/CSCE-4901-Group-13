@@ -1,7 +1,7 @@
 # CSCE-4901-Group-13
 
 # Members:
-- Gustavo Platas
+- Gustavo Platas a
 - Mohammed
 - Oziel Platas Jr
 - Chaitanya
